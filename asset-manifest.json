@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vikas-koleti.github.io/csb-t5up2/static/css/main.545cab6e.chunk.css",
+    "main.js": "https://vikas-koleti.github.io/csb-t5up2/static/js/main.38d1c540.chunk.js",
+    "main.js.map": "https://vikas-koleti.github.io/csb-t5up2/static/js/main.38d1c540.chunk.js.map",
+    "runtime-main.js": "https://vikas-koleti.github.io/csb-t5up2/static/js/runtime-main.422d9c8a.js",
+    "runtime-main.js.map": "https://vikas-koleti.github.io/csb-t5up2/static/js/runtime-main.422d9c8a.js.map",
+    "static/js/2.630a3eed.chunk.js": "https://vikas-koleti.github.io/csb-t5up2/static/js/2.630a3eed.chunk.js",
+    "static/js/2.630a3eed.chunk.js.map": "https://vikas-koleti.github.io/csb-t5up2/static/js/2.630a3eed.chunk.js.map",
+    "index.html": "https://vikas-koleti.github.io/csb-t5up2/index.html",
+    "static/css/main.545cab6e.chunk.css.map": "https://vikas-koleti.github.io/csb-t5up2/static/css/main.545cab6e.chunk.css.map",
+    "static/js/2.630a3eed.chunk.js.LICENSE.txt": "https://vikas-koleti.github.io/csb-t5up2/static/js/2.630a3eed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.422d9c8a.js",
+    "static/js/2.630a3eed.chunk.js",
+    "static/css/main.545cab6e.chunk.css",
+    "static/js/main.38d1c540.chunk.js"
+  ]
+}
